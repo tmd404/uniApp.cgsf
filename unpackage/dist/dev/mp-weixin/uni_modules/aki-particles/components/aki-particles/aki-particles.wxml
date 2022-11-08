@@ -1,0 +1,1 @@
+<view><view style="{{('background-color: '+particlestyle.bgcolor+';z-index: '+particlestyle.zindex)}}" id="particles" data-style="{{particlestyle.style}}"></view></view>

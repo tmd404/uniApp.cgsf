@@ -1,0 +1,12 @@
+
+.top{
+	font-weight: bolder;
+}
+.pg{
+	margin-top: 30px;
+}
+.myinof{
+	position: absolute;
+	bottom: 0px;
+}
+

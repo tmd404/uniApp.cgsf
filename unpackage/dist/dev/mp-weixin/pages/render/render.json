@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-steps": "/node-modules/uview-ui/components/u-steps/u-steps",
+    "u-steps-item": "/node-modules/uview-ui/components/u-steps-item/u-steps-item",
+    "zan-calendar": "/components/quick-calendar/calendar"
+  }
+}

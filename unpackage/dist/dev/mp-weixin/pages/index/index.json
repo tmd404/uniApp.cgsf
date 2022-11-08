@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "aki-particles": "/uni_modules/aki-particles/components/aki-particles/aki-particles",
+    "u-notify": "/node-modules/uview-ui/components/u-notify/u-notify",
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "rl": "/pages/render/render"
+  }
+}

@@ -1,0 +1,30 @@
+
+.lft{
+		position: absolute;
+		top:50%;
+		font-weight: bolder;
+}
+.btn{text-align: center;}
+.start{
+	margin-top:20px;
+	
+	-webkit-animation: fadenum 100s linear infinite;
+	
+	        animation: fadenum 100s linear infinite;
+}
+@-webkit-keyframes fadenum{
+100%{-webkit-transform:rotate(360deg);transform:rotate(360deg);
+}}
+@keyframes fadenum{
+100%{-webkit-transform:rotate(360deg);transform:rotate(360deg);
+}}
+image{
+	height: 250px;
+}
+.lh{
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+}
+   
+
